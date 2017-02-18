@@ -1,5 +1,5 @@
 info:
-  component: WB3 Zuul Edge Server
+  component: WB3 Tech - Spring Cloud Zuul Edge Server
 server:
   port: 3003
 management:
